@@ -1,0 +1,7 @@
+{
+  "name": "acorn",
+  "description": "A tiny, fast JavaScript parser, written completely in JavaScript.",
+  "version": "0.0.1",
+  "main": "acorn.js",
+  "scripts": ["acorn.js"]
+}
